@@ -1,7 +1,7 @@
 ---
 title: Tamara Ells
 date: 2018-12-20T13:44:55.000+10:00
-image: images/team/default.jpg
+image: "/images/team/lucas-sankey-378674-unsplash.jpg"
 jobtitle: UI Designer
 weight: "4"
 
